@@ -9,7 +9,7 @@
 
 - 💬 Ask me about web and game development.
 
-- 📫 Direct message [@The_Coding_Guru (Twitter)](https://twitter.com/The_Coding_Guru) to reach me. 
+- 📫 Direct message [@aditya_codes (Twitter)](https://twitter.com/aditya_codes) to reach me. 
 
 - 🌱 I’m currently learning machine Learning. 
 
