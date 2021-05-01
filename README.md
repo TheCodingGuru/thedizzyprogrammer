@@ -1,27 +1,26 @@
 # Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></a>
 
 
-## My name is [Aditya Kapoor](https://twitter.com/The_Coding_Guru)!
+## My name is [Aditya Kapoor](https://twitter.com/aditya_codes)!
 
 
-### I'm a Software Developer (comfortable with web and game development) and athlete based in England.
+### I'm a computer engineer and athlete based in England.
 
 
-- 💬 Ask me about web and game development.
+- 💬 Ask me about web and game development
 
 - 📫 Direct message [@aditya_codes (Twitter)](https://twitter.com/aditya_codes) to reach me. 
 
-- 🌱 I’m currently learning machine Learning. 
+- 🌱 I’m currently learning Machine Learning. 
 
-- 👯 I’m looking for freelance and development opportunities.
+- 👨‍💻 I’m looking for freelance and development opportunities.
 
 
 ### Find me on these Social Networks:
 
 
 - [Twitter](https://twitter.com/The_Coding_Guru)
-- [GitHub](https://github.com/TheCodingGuru)
-- [itch](https:/thecodingguru.itch.io)
+- [GitHub](https://github.com/adityakapoor1729)
 - [Codepen](https://codepen.io/TheCodingGuru)
 
 
